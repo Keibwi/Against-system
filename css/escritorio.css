@@ -1,0 +1,34 @@
+.escritorio{
+    width: 1095px;
+    height: 650px;
+    margin-left: 200px;
+    margin-top: 60px;
+    background: rgb(255,88,188);
+    background: linear-gradient(209deg, rgba(255,88,188,1) 0%, rgba(88,255,225,1) 100%);
+    overflow: hidden;
+}
+
+.barra{
+    width: 1095px;
+    height: 40px;
+    background-color: #C8B1D6;
+    margin-top: 610px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.íconos{
+    display: flex;
+    flex-direction: row;
+}
+.menú{
+    width: 40px;
+    height: 40px;
+    margin: auto;
+}
+.carpeta{
+    width: 35px;
+    height: 35px;
+    margin-top: 5px;
+    margin-left: 10px;
+}

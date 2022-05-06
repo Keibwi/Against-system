@@ -1,5 +1,10 @@
-img{
-    width: 1095px;
-    height: 650px;
-    margin: 20px;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+    font-family: 'Robot Mono', monospace;
 }
