@@ -12,13 +12,16 @@
 }
 .barra_sup{
     background-color: #3772CC;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .botones img{
     width: 20px;
     height: 20px;
+    margin: 5px;
 }
 .botones{
-    margin-left: 580px;
     align-items: center;
 }
 .titulo{
